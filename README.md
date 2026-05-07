@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Cloud & Platform Engineer Banner" width="100%">
+
 <div align="center">
   <h1>Hi there, I'm Paulo Arthur Rocha 👋</h1>
   <p>
