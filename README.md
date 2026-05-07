@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Paulo Arthur Rocha 👋</h1>
-  <h3>Cloud & Platform Engineer | AI-First Builder</h3>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Cloud+%26+Platform+Engineer;AI-First+Builder;Distributed+Systems+Architect;Automating+with+Multi-LLM+Agents" alt="Typing SVG" />
+    </a>
+  </p>
   <p>
     <a href="https://linkedin.com/in/pauloarthurrocha" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,6 +40,14 @@ Sou um **Engenheiro de Cloud e Plataforma** com mais de 7 anos de experiência e
   > 🔒 *Currently building ScrapeFlow — production SaaS for ad intelligence. Private repo, available for technical discussion under NDA.*
 
 - 🤖 **Adaptive AI Agency Framework**: An open-source, SPEC-driven development framework for solo builders. It orchestrates autonomous AI agents to handle everything from niche research and psychological color picking to full-stack code scaffolding and deployment.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pauloarthurrocha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarthurrocha&hide_border=true&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
