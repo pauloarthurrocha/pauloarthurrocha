@@ -20,28 +20,44 @@
 ---
 
 ### 🇺🇸 About Me
-I'm a **Cloud & Platform Engineer** with 7+ years of experience in IT and mission-critical infrastructure, currently bridging the gap between robust distributed systems and Artificial Intelligence. With a strong background in government telecom networks (OSPF, L2/L3) and physical-to-cloud migrations, I now architect and build **AI-augmented platforms** and scalable full-stack SaaS products. My focus is on orchestrating multi-LLM workflows, self-hosted infrastructure, and engineering high-availability systems that deliver real business value.
 
-### 🇧🇷 Sobre Mim
-Sou um **Engenheiro de Cloud e Plataforma** com mais de 7 anos de experiência em TI e infraestrutura crítica, conectando a robustez de sistemas distribuídos com o poder da Inteligência Artificial. Vindo de um background em redes governamentais (OSPF, L2/L3) e migrações físico-nuvem, hoje atuo arquitetando e construindo **plataformas potencializadas por IA** e SaaS full-stack. Minha especialidade é orquestrar workflows multi-LLM, infraestrutura self-hosted e backends escaláveis focados em entrega de valor e eficiência operacional.
+I'm a **Cloud & Platform Engineer** with 7+ years of experience architecting mission-critical infrastructure and AI-augmented platforms. Coming from government telecom networks (OSPF, L2/L3) and physical-to-cloud migrations, I now build **scalable full-stack SaaS** and orchestrate multi-LLM workflows on self-hosted infrastructure. I ship systems that turn AI agents into reliable engineering teams.
+
+<details>
+  <summary>🇧🇷 Ler em Português</summary>
+  
+  Sou um **Engenheiro de Cloud e Plataforma** com mais de 7 anos de experiência arquitetando infraestrutura crítica e plataformas potencializadas por IA. Vindo de redes governamentais (OSPF, L2/L3) e migrações físico-nuvem, hoje construo **SaaS full-stack escaláveis** e organizo workflows multi-LLM em infraestrutura self-hosted. Meu foco é transformar agentes de IA em times de engenharia confiáveis.
+</details>
+
+---
+
+### 🚀 Flagship Project
+
+- 🤖 **[OneManAgency](https://github.com/pauloarthurrocha/OneManAgency)** — *Open-source framework for orchestrating AI agents across any IDE.*  
+  [![npm](https://img.shields.io/npm/v/onemanagency?color=CB3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/onemanagency)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/pauloarthurrocha/OneManAgency/blob/main/LICENSE)
+  - **What it does:** Turns Claude Code, Cursor, OpenCode, Windsurf, Aider, Roo Code & more into a full software factory with 17 specialized AI personas.
+  - **Key innovations:** Context Engineering (state on disk, not chat RAM), PIV Loop (Plan → Implement → Validate with `/clear` between phases), 3-gate Review Triad (CEO → Eng → Design), TDD Iron Law for backend agents.
+  - **Tech:** Cross-IDE (13 supported), zero-config MCPs (Context7, Playwright, Sequential Thinking, Memory), 9 playbooks, offline-first.
+  - **Install:** `npm install -g onemanagency@latest`
 
 ---
 
 ### 📌 Featured Repositories
 
-- ☁️ **[oci-platform-lab](https://github.com/pauloarthurrocha/oci-platform-lab)** *(Drafting)*: My OCI architecture lab featuring an ARM64 dual-VPS setup, Coolify, Docker, and GitHub Actions CI/CD with security guard conditions.
-- ⚙️ **[n8n-ai-workflows](https://github.com/pauloarthurrocha/n8n-ai-workflows)** *(Drafting)*: Advanced n8n workflow orchestrations with AI agents, proving my AI Automation engineering capabilities.
-- 🧠 **[multi-llm-orchestration](https://github.com/pauloarthurrocha/multi-llm-orchestration)** *(Drafting)*: Documentation and patterns of my multi-LLM workflow (Gemini + Claude Code + Perplexity + NotebookLM Context Kit) for complex AI-driven development.
+- ☁️ **[oci-platform-lab](https://github.com/pauloarthurrocha/oci-platform-lab)**: ARM64 dual-VPS OCI setup, Coolify, Docker, GitHub Actions CI/CD with security guard conditions.
+
+- ⚙️ **[n8n-ai-workflows](https://github.com/pauloarthurrocha/n8n-ai-workflows)**: Advanced n8n workflow orchestrations with AI agents — multi-LLM automation patterns in production.
+
+- 🧠 **[multi-llm-orchestration](https://github.com/pauloarthurrocha/multi-llm-orchestration)**: Patterns for multi-LLM workflows (Gemini + Claude Code + Perplexity + NotebookLM Context Kit) driving complex AI-assisted development.
 
 ---
 
 ### 🚀 What I'm Currently Building
 
-- 🕵️‍♂️ **ScrapeFlow**: A competitive ad intelligence platform.
-  *(Stack: FastAPI, Next.js 16, PostgreSQL, pgvector, Redis, ARQ, Docker, OCI, Multi-LLM analysis)* 
-  > 🔒 *Currently building ScrapeFlow — production SaaS for ad intelligence. Private repo, available for technical discussion under NDA.*
-
-- 🤖 **Adaptive AI Agency Framework**: An open-source, SPEC-driven development framework for solo builders. It orchestrates autonomous AI agents to handle everything from niche research and psychological color picking to full-stack code scaffolding and deployment.
+- 🕵️‍♂️ **ScrapeFlow** — Competitive ad intelligence platform.  
+  *(Stack: FastAPI, Next.js 16, PostgreSQL, pgvector, Redis, ARQ, Docker, OCI, Multi-LLM analysis)*  
+  > 🔒 *Production SaaS. Private repo, available for technical discussion under NDA.*
 
 ---
 
@@ -89,5 +105,5 @@ Sou um **Engenheiro de Cloud e Plataforma** com mais de 7 anos de experiência e
 ---
 
 <div align="center">
-  <i>"Technical operations based on engineering systems, not casual tool usage."</i>
+  <i>"You don't level up your code by saying please. You level up by building systems that forbid bad code."</i>
 </div>
