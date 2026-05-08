@@ -65,14 +65,6 @@ I'm a **Cloud & Platform Engineer** with 7+ years of experience architecting mis
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pauloarthurrocha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloarthurrocha&hide_border=true&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🛠️ Tech Stack & Arsenal
 
 **Cloud, Infrastructure & DevOps**
