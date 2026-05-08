@@ -59,9 +59,9 @@ I'm a **Cloud & Platform Engineer** with 7+ years of experience architecting mis
   *(Stack: FastAPI, Next.js 16, PostgreSQL, pgvector, Redis, ARQ, Docker, OCI, Multi-LLM analysis)*  
   > 🔒 *Production SaaS. Private repo, available for technical discussion under NDA.*
 
-- 💬 **[Sistema-Whats](https://github.com/LudiAlves/Sistema-whatsapp)** *(WIP)* — WhatsApp Sales Automation CRM for paid traffic (Meta Ads).  
+- 💬 **Sistema-Whats** *(WIP)* — WhatsApp Sales Automation CRM for paid traffic (Meta Ads).  
   *(Stack: Python, FastAPI, Evolution API, Gemini AI, n8n)*  
-  > 🚀 *Currently in development. Features an intelligent funnel, sales sequence engine, and an AI agent for automated customer service.*
+  > 🔒 *Currently in development. Private repo. Features an intelligent funnel, sales sequence engine, and an AI agent for automated customer service.*
 
 ---
 
