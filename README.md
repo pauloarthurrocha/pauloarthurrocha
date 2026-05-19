@@ -1,7 +1,7 @@
 <img src="banner.png" alt="Cloud & Platform Engineer Banner" width="100%">
 
 <div align="center">
-  <h1>Hi there, I'm Paulo Arthur Rocha </h1>
+  <h1>Hi there, I'm Paulo Arthur Rocha 👋</h1>
   <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Cloud+%26+Platform+Engineer;AI-First+Builder;Distributed+Systems+Architect;Automating+with+Multi-LLM+Agents" alt="Typing SVG" />
@@ -19,21 +19,21 @@
 
 ---
 
-### About Me (EN)
+### 🇺🇸 About Me
 
 I'm a **Cloud & Platform Engineer** with 7+ years of experience architecting mission-critical infrastructure and AI-augmented platforms. Coming from government telecom networks (OSPF, L2/L3) and physical-to-cloud migrations, I now build **scalable full-stack SaaS** and orchestrate multi-LLM workflows on self-hosted infrastructure. I ship systems that turn AI agents into reliable engineering teams.
 
 <details>
-  <summary>Sobre Mim (PT-BR)</summary>
+  <summary>🇧🇷 Ler em Português</summary>
   
   Sou um **Engenheiro de Cloud e Plataforma** com mais de 7 anos de experiência arquitetando infraestrutura crítica e plataformas potencializadas por IA. Vindo de redes governamentais (OSPF, L2/L3) e migrações físico-nuvem, hoje construo **SaaS full-stack escaláveis** e organizo workflows multi-LLM em infraestrutura self-hosted. Meu foco é transformar agentes de IA em times de engenharia confiáveis.
 </details>
 
 ---
 
-### Flagship Project
+### 🚀 Flagship Project
 
-- **[OneManAgency](https://github.com/pauloarthurrocha/OneManAgency)** — *Open-source framework for orchestrating AI agents across any IDE.*  
+- 🤖 **[OneManAgency](https://github.com/pauloarthurrocha/OneManAgency)** — *Open-source framework for orchestrating AI agents across any IDE.*
   [![npm](https://img.shields.io/npm/v/onemanagency?color=CB3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/onemanagency)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/pauloarthurrocha/OneManAgency/blob/main/LICENSE)
   - **What it does:** Turns Claude Code, Cursor, OpenCode, Windsurf, Aider, Roo Code & more into a full software factory with 17 specialized AI personas.
@@ -43,29 +43,29 @@ I'm a **Cloud & Platform Engineer** with 7+ years of experience architecting mis
 
 ---
 
-### Featured Repositories
+### 📌 Featured Repositories
 
 - ☁️ **[oci-platform-lab](https://github.com/pauloarthurrocha/oci-platform-lab)**: ARM64 dual-VPS OCI setup, Coolify, Docker, GitHub Actions CI/CD with security guard conditions.
 
-- **[n8n-ai-workflows](https://github.com/pauloarthurrocha/n8n-ai-workflows)**: Advanced n8n workflow orchestrations with AI agents — multi-LLM automation patterns in production.
+- ⚙️ **[n8n-ai-workflows](https://github.com/pauloarthurrocha/n8n-ai-workflows)**: Advanced n8n workflow orchestrations with AI agents — multi-LLM automation patterns in production.
 
--  **[multi-llm-orchestration](https://github.com/pauloarthurrocha/multi-llm-orchestration)**: Patterns for multi-LLM workflows (Gemini + Claude Code + Perplexity + NotebookLM Context Kit) driving complex AI-assisted development.
+- 🧠 **[multi-llm-orchestration](https://github.com/pauloarthurrocha/multi-llm-orchestration)**: Patterns for multi-LLM workflows (Gemini + Claude Code + Perplexity + NotebookLM Context Kit) driving complex AI-assisted development.
 
 ---
 
-### What I'm Currently Building
+### 🚀 What I'm Currently Building
 
-- **ScrapeFlow** — Competitive ad intelligence platform.  
+- 🕵️‍♂️ **ScrapeFlow** — Competitive ad intelligence platform.  
   *(Stack: FastAPI, Next.js 16, PostgreSQL, pgvector, Redis, ARQ, Docker, OCI, Multi-LLM analysis)*  
-  >  *Production SaaS. Private repo, available for technical discussion under NDA.*
+  > 🧠 *Production SaaS. Private repo, available for technical discussion under NDA.*
 
-- **Sistema-Whats** *(WIP)* — WhatsApp Sales Automation CRM for paid traffic (Meta Ads).  
+- 💬 **Sistema-Whats** *(WIP)* — WhatsApp Sales Automation CRM for paid traffic (Meta Ads).  
   *(Stack: Python, FastAPI, Evolution API, Gemini AI, n8n)*  
-  >  *Currently in development. Private repo. Features an intelligent funnel, sales sequence engine, and an AI agent for automated customer service.*
+  > 🤖 *Currently in development. Private repo. Features an intelligent funnel, sales sequence engine, and an AI agent for automated customer service.*
 
 ---
 
-### Tech Stack & Arsenal
+### 🛠️ Tech Stack & Arsenal
 
 **Cloud, Infrastructure & DevOps**
 <br>
@@ -103,6 +103,7 @@ I'm a **Cloud & Platform Engineer** with 7+ years of experience architecting mis
 <div align="center">
   <i>"You don't level up your code by saying please. You level up by building systems that forbid bad code."</i>
 </div>
+
 
 
 
